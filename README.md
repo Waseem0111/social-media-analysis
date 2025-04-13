@@ -7,6 +7,7 @@ This project simulates and analyzes a dataset of social media posts using Python
 ## 🧠 Project Summary
 
 We generated a synthetic dataset representing social media posts with the following attributes:
+- `username`: The user who made the post
 - `content`: A short snippet of the post
 - `likes`: Number of likes the post received
 - `shares`: Number of times the post was shared
